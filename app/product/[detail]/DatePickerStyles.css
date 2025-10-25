@@ -1,0 +1,21 @@
+.persian-date-picker {
+  position: relative;
+}
+
+.persian-date-picker .rmdp-container {
+  z-index: 1000;
+}
+
+.rmdp-input {
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+
+  width: 160px;
+}
+.rmdp-ep-arrow {
+  left: 100px !important;
+}
+.rmdp-wrapper{
+  position: fixed !important;
+  left: 0px !important;
+}
